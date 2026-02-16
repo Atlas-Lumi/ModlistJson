@@ -302,93 +302,7 @@
 			},
 			"aliases": []
 		},
-		{
-			"type": "mod",
-			"version": "1.3",
-			"name": "TLD-Morphine",
-			"displayName": "",
-			"author": "Atlas Lumi, Thekillergreece",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-05-18",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Morphine/releases/download/Latest/Morphine.modcomponent",
-			"modURL": "https://github.com/Atlas-Lumi/TLD_Morphine",
-			"description": "Adds Morphine as a usable item",
-			"tags": "",
-			"categories": [
-				"Gear Items"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg"
-			],
-			"dependencies": [
-				"ModComponent",
-				"CraftingRevisions",
-				"GearSpawner",
-				"AlcoholMod"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.1",
-			"name": "TLD-Cigarettes",
-			"displayName": "",
-			"author": "Atlas Lumi, Thekillergreece",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-04-19",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes/releases/download/Latest/Cigarettes.modcomponent",
-			"modURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes",
-			"description": "Adds usable Cigarettes",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://user-images.githubusercontent.com/102776369/163693492-e0c76482-5351-4bf7-99ea-a4da1e512963.png"
-			],
-			"dependencies": [
-				"ModComponent",
-				"GearSpawner",
-				"CraftingRevisions"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
+		
 		{
 			"type": "mod",
 			"version": "2.0",
@@ -433,3 +347,4 @@
 		}
 	]
 }
+
